@@ -1,2 +1,3 @@
 # MONICA
-A personal AI assistant with various new feturs
+A personal AI assistant with various new features.
+that can read your voice and work accordingly.
